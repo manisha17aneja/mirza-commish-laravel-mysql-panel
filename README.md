@@ -3,7 +3,7 @@
 
 https://commish.mkhurram.online/v2/public/
 
-## Commish | Login
+## Commish | Admin Login
 ```
 Admin
 123++
